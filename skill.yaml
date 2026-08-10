@@ -1,5 +1,5 @@
 schema: skill-manifest/v1
-id: sgc-solution-architect
+id: lov-solution-architect
 version: 0.1.0
 runtime: skill-runtime/v1
 context:
