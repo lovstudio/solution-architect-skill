@@ -1,6 +1,6 @@
 schema: skill-manifest/v1
-id: lov-solution-architect
-version: "0.2.0"
+id: solution-architect
+version: 0.1.1
 runtime: skill-runtime/v1
 context:
   profile:
@@ -15,7 +15,7 @@ context:
       required: false
       question: 如果已有品牌语气或审美关键词，请提供它们。
   preferences:
-    namespace: lov_solution_architect
+    namespace: solution_architect
     fields:
     - path: user.language
       required: false

@@ -1,12 +1,11 @@
 # Changelog
 
-## [0.2.0] - 2026-08-24
+All notable changes to this skill are documented here.
+Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: [SemVer](https://semver.org/)
+
+## [0.1.1] - 2026-09-07
 
 ### Added
 
-- add the shared feedback-classification and approval-invalidation gate used by every LovStudio Skill
+- 统一展示名为「方案架构师」，保持调用 ID 与能力契约。
 
-## 0.1.0 - 2026-05-17
-
-- Initial public release.
-- Added Skill Publisher catalog metadata, open-source-first selection rubric, and solution output template.
