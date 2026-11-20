@@ -1,6 +1,6 @@
 # 方案架构师 · Solution Architect
 
-![Version](https://img.shields.io/badge/version-0.2.2-CC785C) ![Free](https://img.shields.io/badge/Free-green) ![Category](https://img.shields.io/badge/category-business-blue)
+![Version](https://img.shields.io/badge/version-0.2.3-CC785C) ![Free](https://img.shields.io/badge/Free-green) ![Category](https://img.shields.io/badge/category-business-blue)
 
 把产品或技术需求转成有调研依据、开源优先的可执行解决方案。
 
@@ -9,7 +9,7 @@ Part of [skill-publisher/skills](https://example.com/skills/skills) — by [exam
 ## Install
 
 ```bash
-npx skills add solution-architect -g -y
+npx lovstudio skills add solution-architect -g -y
 ```
 
 ## Use Cases
